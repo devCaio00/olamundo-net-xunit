@@ -1,0 +1,14 @@
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/bin/Debug/net8.0/MeuPrimeiroTeste.App
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/bin/Debug/net8.0/MeuPrimeiroTeste.App.deps.json
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/bin/Debug/net8.0/MeuPrimeiroTeste.App.runtimeconfig.json
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/bin/Debug/net8.0/MeuPrimeiroTeste.App.dll
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/bin/Debug/net8.0/MeuPrimeiroTeste.App.pdb
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/MeuPrimeiroTeste.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/MeuPrimeiroTeste.App.AssemblyInfoInputs.cache
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/MeuPrimeiroTeste.App.AssemblyInfo.cs
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/MeuPrimeiroTeste.App.csproj.CoreCompileInputs.cache
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/MeuPrimeiroTeste.App.dll
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/refint/MeuPrimeiroTeste.App.dll
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/MeuPrimeiroTeste.App.pdb
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/MeuPrimeiroTeste.App.genruntimeconfig.cache
+/home/kayy/Documents/OlaMundoNet/MeuPrimeiroTeste.App/obj/Debug/net8.0/ref/MeuPrimeiroTeste.App.dll
